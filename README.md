@@ -1,6 +1,6 @@
 # JAGUAR
 
-## 📥 最新版本：2069 
+## 📥 最新版本：2070 
 ## check  releases
 
 [NET3.5 for later Window11_26H1](https://go.microsoft.com/fwlink/?LinkID=2337635)
